@@ -1,0 +1,22 @@
+﻿.WaterMarkedTextBox
+{
+	border-right: #ccccff thin solid;
+	border-top: #ccccff thin solid;	
+	border-left: #ccccff thin solid;	
+	border-bottom: #ccccff thin solid;
+	color: gray;
+	display: inline;
+	background: AliceBlue;
+	visibility: visible;
+}
+.NormalTextBox
+{
+	border-right: #ccccff thin solid;
+	border-top: #ccccff thin solid;
+	border-left: #ccccff thin solid;	
+	border-bottom: #ccccff thin solid;
+	color: black;
+	display: inline;
+	background: #ffffff;
+	visibility: visible;
+}
