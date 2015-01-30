@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_getCustBasicInfo" value="name:Serial;datatype:3,name:Seat;datatype:202,name:item;datatype:202,name:Publishday;datatype:202,name:SystemTime;datatype:202,name:CustBirthDay;datatype:202,name:CustId;datatype:202,name:SetCustId;datatype:202,name:IdentityCard;datatype:202,name:CustGender;datatype:202,name:CustName;datatype:202,name:CustTelPhone;datatype:202,name:CustMobile;datatype:202,name:CustEmail;datatype:202,name:CustAddress;datatype:202,name:CustGroup;datatype:202,name:Height;datatype:202,name:Weight;datatype:202,name:BloodType;datatype:202,name:Constellation;datatype:202,name:JobTitle;datatype:202,name:MonthIncome;datatype:202,name:Contect;datatype:202,name:Habbit;datatype:202,name:Interest;datatype:202" />
+	<infoitem key="UD_getCustServiceRecord" value="name:Serial;datatype:3,name:Seat;datatype:202,name:item;datatype:202,name:CustId;datatype:202,name:SystemTime;datatype:202,name:PublishDay;datatype:202,name:UnderTaker;datatype:202,name:ServiceContent;datatype:202" />
+</info>
